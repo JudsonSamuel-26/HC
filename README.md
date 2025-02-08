@@ -1,7 +1,7 @@
-# Epic Care - AI-Powered Skin Disease Detection & Skincare Assistant
+# Epicare - AI-Powered Skin Disease Detection & Skincare Assistant
 
 ## 📌 Project Overview
-Epic Care is an AI-driven application designed to analyze, diagnose, and provide personalized skincare solutions. It helps users identify skin diseases, track their skin health, and connect with dermatologists for expert consultation.
+Epicare is an AI-driven application designed to analyze, diagnose, and provide personalized skincare solutions. It helps users identify skin diseases, track their skin health, and connect with dermatologists for expert consultation.
 
 ---
 

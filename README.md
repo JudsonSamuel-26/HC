@@ -55,7 +55,17 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 ✅ **Symptom Tracking & Progress Monitoring** – Helps users track skin changes over time.
 ✅ **Data Privacy & Security** – Ensures no data is shared without user consent.
 
+---
 
+## 🛠️ Tech Stack
+- **AI & ML:** TensorFlow / OpenCV
+- **Frontend:** Html,css,js
+- **Backend:** Django 
+- **AI & ML:** Tensorflow(EfficientNet)
+- **Database:** Firebase / MongoDB
+- **Cloud:** AWS / Google Cloud
+
+---
 
 ## 🎯 Future Scope
 - Expand AI model to detect **rare and complex** skin conditions.
@@ -65,10 +75,6 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 
 ---
 
-## 📩 Contact
-📧 **Email:** support@epiccare.ai  
-🌐 **Website:** [www.epiccare.ai](http://www.epiccare.ai)  
-📱 **Follow Us:** [@EpicCareAI](https://twitter.com/epiccareai)
 
 ---
 

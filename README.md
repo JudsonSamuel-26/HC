@@ -30,7 +30,7 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 ---
 
 ## 🔥 Competitor Comparison
-| Feature                              | Epic Care ✅ | AI Dermatologist | Tibot AI | Aysa | First Derm | SkinGPT-4 |
+| Feature                              | EpiCare ✅ | AI Dermatologist | Tibot AI | Aysa | First Derm | SkinGPT-4 |
 |--------------------------------------|------------|-----------------|---------|------|-----------|-----------|
 | **AI-Powered Skin Disease Detection** | ✅          | ✅               | ✅       | ✅    | ✅         | ✅         |
 | **Number of Skin Conditions Covered** | 🔥 100+    | ❌ 58           | ❌ Limited | ❌ Limited | ❌ Limited | ❌ Limited |
@@ -81,4 +81,4 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 
 ---
 
-🚀 **Let's revolutionize skincare with AI!**
+ **Let's revolutionize skincare with AI!**

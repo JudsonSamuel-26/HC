@@ -1,12 +1,12 @@
-# 🌿 AI Skin Detection App  
+# 🌿 EpiCare – Your Personal Skin Care Assistant  
 
 ## 🚀 Revolutionizing Skincare with AI  
 
-AI Skin Detection is an intelligent platform that leverages artificial intelligence to analyze skin conditions, provide accurate diagnoses, and recommend personalized treatments. This app bridges the gap between users, dermatologists, and the skincare industry by offering tailored solutions based on real-time AI analysis.  
+EpiCare is an intelligent platform that leverages artificial intelligence to analyze skin conditions, provide accurate diagnoses, and recommend personalized treatments. This app bridges the gap between users, dermatologists, and the skincare industry by offering tailored solutions based on real-time AI analysis.  
 
 ---
 
-## 🎯 Why This App?  
+## 🎯 Why EpiCare?  
 
 🔬 **AI-Powered Precision** – Instantly detects skin issues and suggests treatments.  
 👩‍⚕️ **Dermatologist Connection** – Get expert advice with one click.  

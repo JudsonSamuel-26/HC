@@ -58,11 +58,11 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React Native / Flutter
-- **Backend:** Node.js / Python (FastAPI)
-- **AI & ML:** TensorFlow / OpenCV
-- **Database:** Firebase / MongoDB
-- **Cloud:** AWS / Google Cloud
+- **Frontend:** Html,css,js
+- **Backend:** Django 
+- **AI & ML:** Tensorflow(EfficientNet)
+- **Database:** MongoDB
+
 
 ---
 
@@ -74,11 +74,7 @@ Many people suffer from skin diseases, allergies, and other skin-related issues 
 
 ---
 
-## 📩 Contact
-📧 **Email:** support@epiccare.ai  
-🌐 **Website:** [www.epiccare.ai](http://www.epiccare.ai)  
-📱 **Follow Us:** [@EpicCareAI](https://twitter.com/epiccareai)
 
----
+
 
  **Let's revolutionize skincare with AI!**
